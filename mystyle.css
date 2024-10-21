@@ -519,7 +519,7 @@ footer a {
 }
 /*Courses*/
 .card {
-  width: 18rem; /* Adjust the width as needed */
-  margin: 10px; /* Add some margin between the cards */
+  width: 18rem; 
+  margin: 10px; 
   display: inline-block; /* Display the cards inline */
 }
