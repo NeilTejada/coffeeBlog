@@ -23,5 +23,3 @@ The Coffee Blog template includes four main pages:
 - HTML5
 - CSS3 (linked via `mystyle.css`)
 - Google Fonts (`PT Sans`)
-
-## 📁 File Structure
